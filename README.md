@@ -1,6 +1,8 @@
 # maze-solver-python
 Pathfinding algorithm using breadth first search 
 
+//If a path does not get found make sure that the maze is solvable.
+
 Specifications for the input maze:
 
 - The input array can be of any size as long as it is a 2-D array
